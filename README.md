@@ -45,5 +45,5 @@ CodePET - это веб-приложение, разработанное для 
 
 [DevTools-url]: https://developer.chrome.com/docs/devtools?hl=ru
 
-[DevTools-badge]: https://i123.fastpic.org/big/2024/0221/94/c88c2cf392cd16d8d26c62a1cc9ea594.png
+[DevTools-badge]: https://i123.fastpic.org/big/2024/0221/fb/29d6776fcb4717e1242926383663f6fb.png
 
