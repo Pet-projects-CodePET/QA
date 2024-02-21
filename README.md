@@ -33,7 +33,7 @@ CodePET - это веб-приложение, разработанное для 
 
 [Charles-url]: https://www.charlesproxy.com/
 
-[Charles-badge]: https://i123.fastpic.org/big/2024/0221/3c/9001fba611286c207e1e4412dc20723c.png
+[Charles-badge]: https://i123.fastpic.org/big/2024/0221/1f/22782a705dcbeab31aa4acbf1367601f.png
 
 [Postman-url]: https://www.postman.com/
 
