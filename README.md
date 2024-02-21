@@ -29,7 +29,7 @@ CodePET - это веб-приложение, разработанное для 
 
 [qase.io-url]: https://www.qase.io/
 
-[qase.io-badge]: https://i123.fastpic.org/big/2024/0221/da/d7960c95461db9ee881f37e0ff1badda.png
+[qase.io-badge]: https://i123.fastpic.org/big/2024/0221/ca/2f2409704ce5c9dace54bc7d9aa366ca.png
 
 [Charles-url]: https://www.charlesproxy.com/
 
