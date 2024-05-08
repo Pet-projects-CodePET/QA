@@ -13,7 +13,7 @@ CodePET - это веб-приложение, разработанное для 
 - [Оксана Кашина](https://github.com/KashinaOksi)
 - [Данила Степанов](https://github.com/danilastepanov)
 - [Юлия Кузьмина](https://github.com/YuliyaKuzmina)
-- [Владимир Федоров](https://github.com/bobkofi)
+
 
 ## [План тестирования](https://docs.google.com/document/d/1uNOgBnJaJDamwNNVU0-LP-kHUPlPEtCj2huInj4IuzY/edit?usp=sharing)
 
